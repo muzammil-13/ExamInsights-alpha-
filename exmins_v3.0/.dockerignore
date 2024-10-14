@@ -1,0 +1,9 @@
+# Ignore build artifacts
+target/
+dist/
+
+# Ignore log files
+*.log
+
+# Ignore test results
+test-results/

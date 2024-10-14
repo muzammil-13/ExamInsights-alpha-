@@ -1,0 +1,20 @@
+Folder PATH listing
+Volume serial number is 3E10-6A5B
+C:.
+¦   .env
+¦   .gitignore
+¦   docker-compose.yml
+¦   Dockerfile
+¦   proj_strc.txt
+¦   README.md
+¦   readme_2.0.md
+¦   requirements.txt
+¦   
++---data
+¦       sample-BCA_s4_dsa_Qs.pdf
+¦       
++---src
+        frontend.py
+        main.py
+        __init__.py
+        

@@ -1,0 +1,9 @@
+pathway
+streamlit
+requests
+python-dotenv
+sentence-transformers
+pandas
+plotly
+wordcloud
+matplotlib

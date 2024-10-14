@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  examinsight:
+    build: .
+    ports:
+      - "8000:8000"  # Pathway API
+      - "8501:8501"  # Streamlit frontend
+    volumes:
+      - ./data:/app/data  # Mount the data directory
+    env_file:
+      - .env
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}  # This will now definitely use the value from .env
