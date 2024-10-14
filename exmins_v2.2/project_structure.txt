@@ -1,0 +1,13 @@
+Folder PATH listing
+Volume serial number is 3E10-6A5B
+C:.
+¦   .env
+¦   app.py
+¦   config.yaml
+¦   Dockerfile
+¦   project_structure.txt
+¦   README.md
+¦   requirements.txt
+¦   streamlit_app.py
+¦   
++---data

@@ -1,8 +1,0 @@
-examInsight_app_5.0 project structure
-
-examInsight_app/
-├── app.py         # Pathway RAG application logic
-├── config.yaml     # Configuration for data sources and LLM
-├── Dockerfile      # Docker configuration for the app
-├── requirements.txt  # Project dependencies
-└── streamlit_app.py # Streamlit frontend code
