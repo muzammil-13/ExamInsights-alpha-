@@ -6,17 +6,14 @@ C:.
 ¦   .gitignore
 ¦   docker-compose.yml
 ¦   Dockerfile
-¦   proj_strc.txt
 ¦   README.md
 ¦   requirements.txt
+¦   tree.txt
 ¦   
 +---data
 ¦       sample-BCA_s4_dsa_Qs.pdf
 ¦       
 +---src
-¦       frontend.py
-¦       main.py
-¦       
-+---__pycache__
-        streamlit.cpython-38.pyc
+        frontend.py
+        main.py
         
